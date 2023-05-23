@@ -20,7 +20,7 @@ To calculate the total number of valid key sequences:
 1. Modify the `totalKeysInSequence` variable in the code to set the desired sequence length.
 2. Run the script by executing the following command:
 
-python key_sequences.py
+python knight_moves_sequences.py
 
 
 The output will display the total number of valid key sequences of the specified length.
